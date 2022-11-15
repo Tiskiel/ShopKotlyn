@@ -1,0 +1,4 @@
+package Class
+
+class Market {
+}
