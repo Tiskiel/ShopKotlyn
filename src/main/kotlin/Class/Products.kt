@@ -1,4 +1,6 @@
 package Class
 
-class Products {
+abstract class Products(val name : String, var price : Int, var quantity : Int) {
+
+
 }

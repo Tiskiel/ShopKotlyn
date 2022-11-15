@@ -1,4 +1,4 @@
 package Class
 
-class TV {
+class TV(name : String, price : Int, quantity : Int) : Products(name, price, quantity) {
 }
